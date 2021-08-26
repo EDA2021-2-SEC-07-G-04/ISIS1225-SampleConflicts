@@ -1,7 +1,5 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 1 -> Daniela Gonzáles Espinoza
-Estudiante 2 -> Sebastián Casanova Ospina
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
@@ -31,3 +29,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
+Estudiante 1 -> Daniela González Espinoza, 202021215, d.gonzaleze@uniandes.edu.co
+Estudiante 2 -> Sebastián Casanova Ospina, 202115116, s.casanovao@uniandes.edu.co
